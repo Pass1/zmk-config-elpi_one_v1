@@ -1,2 +1,0 @@
-config SHIELD_ELPI_ONE_V1
-    def_bool $(shields_list_contains,elpi_one_v1)
